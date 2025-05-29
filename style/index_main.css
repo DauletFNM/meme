@@ -1,0 +1,35 @@
+html{
+    margin: 0px;
+    font-size: 30px;
+    background-color: black
+}
+div{
+    width: 100px;
+    height: 100px;
+}
+#container{
+    position: relative;
+    display: inline-block;
+    left: 800px;
+}
+#green{
+    border: dashed green;
+    border: solid;
+    background-color: green;
+    position: relative;
+    bottom: 500px;
+}
+#blue{
+    border: dashed blue;
+    border: solid;
+    background-color: blue;
+    position: relative;
+    bottom: 37px;
+    left: 100px;
+}
+img{
+    position: relative;
+    width: 900px;
+    right: 300px;
+    top: 90px;
+}
